@@ -2,6 +2,7 @@
 Front-End Developer test task #1 "Contact list web app"
 
 Language: JavaScript + jQuery
+
 Design: HTML + CSS
 
 About:
