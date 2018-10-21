@@ -15,7 +15,7 @@
 		
 			<i  class="material-icons loader"> autorenew </i>
 			<div id="print" class="book_roll">
-				<!-- cells appending here by jQuery function getJSON-->
+				<!-- cells appending here by JavaScript function generate_cells() -->
 			</div>
 			<div class="textfield" id="print1"></div>
 		</div>
