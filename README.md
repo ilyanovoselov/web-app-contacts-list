@@ -1,8 +1,10 @@
 # web-app-contacts-list
 Front-End Developer test task #1 "Contact list web app"
 
-Features:
+Language: JavaScript + jQuery
+Design: HTML + CSS
 
+About:
 This is one page web app.
 App gets contacts JSON from server and then save them to localStorage.
 Contacts are sorted alphabetically before get generated into HTML elements on page.
