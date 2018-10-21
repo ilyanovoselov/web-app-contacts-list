@@ -11,6 +11,7 @@ App gets contacts JSON from server and then save them to localStorage.
 Contacts are sorted alphabetically before get generated into HTML elements on page.
 Page contains list of contacts. Their description appearing by clicking on a contact.
 User can edit contact description. Changes also saveing to localStorage.
+App looks good on devices wish small screens.
 
 Here's the working version of an app:
 https://lowpowerart.com/contacts/index.php
